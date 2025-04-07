@@ -1,3 +1,5 @@
 Flask==2.2.2
 moviepy==1.0.3
+requests
+python-dotenv
 supabase==1.0.3
